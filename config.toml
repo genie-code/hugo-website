@@ -1,0 +1,27 @@
+baseurl = "https://geniecode.net"
+languageCode = "bs-ba"
+title = "GenieCode"
+theme = "hucore-custom"
+copyright = "&copy; 2012-2017 by <a href=\"https://geniecode.net\">GenieCode</a>"
+disqusShortname = ""
+googleAnalytics = "UA-58643713-1"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+avatar = "/img/logo_blue_small.png"
+description = "GenieCode Website"
+keywords = ["android", "application", "phone"]
+author = "GenieCode"
+sharingicons = true
+displayauthor = false
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/genie-code"
+fa_icon = "fa-github"
