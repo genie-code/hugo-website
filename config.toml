@@ -2,7 +2,7 @@ baseurl = "https://geniecode.net"
 languageCode = "bs-ba"
 title = "GenieCode"
 theme = "hucore-custom"
-copyright = "&copy; 2012-2018 by <a href=\"https://geniecode.net\">GenieCode</a>"
+copyright = "&copy; 2012-2019 by <a href=\"https://geniecode.net\">GenieCode</a>"
 disqusShortname = ""
 googleAnalytics = "UA-58643713-1"
 
