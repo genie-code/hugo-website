@@ -14,10 +14,10 @@ Notifikacija, koja se može uključiti ili isključiti, obavještava kada dođe 
 
 Kako aplikacija izgleda možete vidjeti na slikama ispod:
 
-<a href="/assets/trudnoca/01.png"><img src="/assets/trudnoca/01.png" width="177" height="300" /></a>
-<a href="/assets/trudnoca/02.png"><img src="/assets/trudnoca/02.png" width="177" height="300" /></a>
-<a href="/assets/trudnoca/03.png"><img src="/assets/trudnoca/03.png" width="177" height="300" /></a>
-<a href="/assets/trudnoca/04.png"><img src="/assets/trudnoca/04.png" width="177" height="300" /></a>
+<a href="/assets/trudnoca/01.png"><img src="/assets/trudnoca/01_scaled.png" width="177" height="299" /></a>
+<a href="/assets/trudnoca/02.png"><img src="/assets/trudnoca/02_scaled.png" width="177" height="299" /></a>
+<a href="/assets/trudnoca/03.png"><img src="/assets/trudnoca/03_scaled.png" width="177" height="299" /></a>
+<a href="/assets/trudnoca/04.png"><img src="/assets/trudnoca/04_scaled.png" width="177" height="299" /></a>
 
 Aplikaciju, koja je potpuno besplatna, možete instalirati na vaš Android bazirani mobilni telefon koristeći <a href="https://play.google.com/store/apps/details?id=com.mhalka.babytracker" target="_blank">Google Play Store</a>.
 
